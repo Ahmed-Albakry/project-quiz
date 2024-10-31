@@ -1,0 +1,10 @@
+G:\levle3-lab\C#-project\project quiz\project quiz\bin\Debug\project quiz.exe.config
+G:\levle3-lab\C#-project\project quiz\project quiz\bin\Debug\project quiz.exe
+G:\levle3-lab\C#-project\project quiz\project quiz\bin\Debug\project quiz.pdb
+G:\levle3-lab\C#-project\project quiz\project quiz\obj\Debug\project quiz.csproj.AssemblyReference.cache
+G:\levle3-lab\C#-project\project quiz\project quiz\obj\Debug\project_quiz.Form1.resources
+G:\levle3-lab\C#-project\project quiz\project quiz\obj\Debug\project_quiz.Properties.Resources.resources
+G:\levle3-lab\C#-project\project quiz\project quiz\obj\Debug\project quiz.csproj.GenerateResource.cache
+G:\levle3-lab\C#-project\project quiz\project quiz\obj\Debug\project quiz.csproj.CoreCompileInputs.cache
+G:\levle3-lab\C#-project\project quiz\project quiz\obj\Debug\project quiz.exe
+G:\levle3-lab\C#-project\project quiz\project quiz\obj\Debug\project quiz.pdb

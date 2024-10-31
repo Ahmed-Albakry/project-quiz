@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "G:\\levle3-lab\\C#-project\\project quiz\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E617897-E110-4732-A208-4F18E7D2AB5F}|project quiz\\project quiz.csproj|g:\\levle3-lab\\c#-project\\project quiz\\project quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E617897-E110-4732-A208-4F18E7D2AB5F}|project quiz\\project quiz.csproj|solutionrelative:project quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E617897-E110-4732-A208-4F18E7D2AB5F}|project quiz\\project quiz.csproj|g:\\levle3-lab\\c#-project\\project quiz\\project quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0E617897-E110-4732-A208-4F18E7D2AB5F}|project quiz\\project quiz.csproj|solutionrelative:project quiz\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E617897-E110-4732-A208-4F18E7D2AB5F}|project quiz\\project quiz.csproj|g:\\levle3-lab\\c#-project\\project quiz\\project quiz\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E617897-E110-4732-A208-4F18E7D2AB5F}|project quiz\\project quiz.csproj|solutionrelative:project quiz\\question.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Question.cs",
+              "DocumentMoniker": "G:\\levle3-lab\\C#-project\\project quiz\\project quiz\\Question.cs",
+              "RelativeDocumentMoniker": "project quiz\\Question.cs",
+              "ToolTip": "G:\\levle3-lab\\C#-project\\project quiz\\project quiz\\Question.cs",
+              "RelativeToolTip": "project quiz\\Question.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:11:44.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "G:\\levle3-lab\\C#-project\\project quiz\\project quiz\\Form1.cs",
+              "RelativeDocumentMoniker": "project quiz\\Form1.cs",
+              "ToolTip": "G:\\levle3-lab\\C#-project\\project quiz\\project quiz\\Form1.cs",
+              "RelativeToolTip": "project quiz\\Form1.cs",
+              "ViewState": "AgIAABABAAAAAAAAAAA3wBgBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:07:10.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "G:\\levle3-lab\\C#-project\\project quiz\\project quiz\\Form1.cs",
+              "RelativeDocumentMoniker": "project quiz\\Form1.cs",
+              "ToolTip": "G:\\levle3-lab\\C#-project\\project quiz\\project quiz\\Form1.cs [Design]",
+              "RelativeToolTip": "project quiz\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T12:02:39.309Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
